@@ -46,7 +46,7 @@ The [`kendo.format`](/api/javascript/kendo#format) and [`kendo.toString`](/api/j
     kendo.toString(0.222, "p0"); //22 %
 
     kendo.culture("de-DE");
-    kendo.toString(0.22, "p3"); //22.000 %
+    kendo.toString(0.22, "p3"); //22,000 %
 
 * `"e"`&mdash;Renders exponential values.
 
